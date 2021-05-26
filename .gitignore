@@ -72,3 +72,6 @@ esm/
 storybook-static/
 .reg
 actual_images
+
+# Local
+.node-version
